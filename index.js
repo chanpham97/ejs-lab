@@ -9,7 +9,7 @@ const inventory = [
       {
         name: "Classic T-Shirt",
         cost: 19.99,
-        imageUrl: "https://example.com/mens-classic-tshirt.jpg",
+        imageUrl: "https://m.media-amazon.com/images/I/51Rm1WGh98L._AC_UY1000_.jpg",
         path: "/item/0",
         quantity: 120,
         colors: ["black", "white", "gray"]
@@ -17,7 +17,7 @@ const inventory = [
       {
         name: "Denim Jacket",
         cost: 49.99,
-        imageUrl: "https://example.com/mens-denim-jacket.jpg",
+        imageUrl: "https://thursdayboots.com/cdn/shop/files/1024x1024-Mens-Jackets-SelvedgeDenimTrucker-Vintage-091423-1_1024x1024.jpg?v=1695056578",
         path: "/item/1",
         quantity: 75,
         colors: ["blue", "black"]
@@ -25,7 +25,7 @@ const inventory = [
       {
         name: "Running Shoes",
         cost: 89.99,
-        imageUrl: "https://example.com/mens-running-shoes.jpg",
+        imageUrl: "https://i.ebayimg.com/images/g/knUAAOSwA-RjyIAG/s-l1200.jpg",
         path: "/item/2",
         quantity: 50,
         colors: ["red", "black", "white"]
@@ -38,7 +38,7 @@ const inventory = [
       {
         name: "Summer Dress",
         cost: 29.99,
-        imageUrl: "https://example.com/womens-summer-dress.jpg",
+        imageUrl: "https://ullajohnson.com/cdn/shop/files/ULLA_JOHNSON_BlaireDress__BLANC_01_MAIN.jpg?v=1714067305&width=960",
         path: "/item/3",
         quantity: 100,
         colors: ["pink", "yellow", "white"]
@@ -46,7 +46,7 @@ const inventory = [
       {
         name: "Leather Handbag",
         cost: 99.99,
-        imageUrl: "https://example.com/womens-leather-handbag.jpg",
+        imageUrl: "https://www.letanneur.us/cdn/shop/files/TEMI1014G05-d_c4c045a7-8a31-4b47-943a-85913ad5c3df.jpg?v=1736851853",
         path: "/item/4",
         quantity: 40,
         colors: ["brown", "black"]
@@ -54,7 +54,7 @@ const inventory = [
       {
         name: "Running Shoes",
         cost: 89.99,
-        imageUrl: "https://example.com/womens-running-shoes.jpg",
+        imageUrl: "https://fullscopesports.com/wp-content/uploads/2022/07/Topo-Athletic-Women-Ultrafly-4-Comfortable-Lightweight-5MM-Drop-Road-Running-Shoes-Profile.jpg",
         path: "/item/5",
         quantity: 60,
         colors: ["blue", "pink", "white"]
