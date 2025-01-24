@@ -80,7 +80,7 @@ app.use((req, res, next) => {
 
 
 
-// Task 3: Set up the route handler for /mens which sends back category.ejs with the men's array
+// Task 3: Set up the route handler for /mens which sends back category.ejs with the men's category object
 
 
 
